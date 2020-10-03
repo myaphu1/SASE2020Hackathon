@@ -1,2 +1,8 @@
 # SASE2020Hackathon
-#Hello is this working
+import java.util. Scanner;
+
+public class SASE2020Hackathon {
+        public static void main(String [] args)
+        {
+        }
+}
