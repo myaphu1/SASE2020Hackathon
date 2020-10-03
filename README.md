@@ -25,7 +25,7 @@ public class SASE2020Hackathon {
                         {
                                consent = "yes";
                         }else{
-                                consent = "no";
+                               consent = "no";
                         }
                         
                         //code starts here
