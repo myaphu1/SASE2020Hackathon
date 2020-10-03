@@ -1,5 +1,11 @@
 import java.util.ArrayList;
 
 public class network{
+        private ArrayList <profile> names;
+        
+        public network()
+        {
+                
+        }
         
 }
