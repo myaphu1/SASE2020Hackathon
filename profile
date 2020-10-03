@@ -12,11 +12,11 @@ public class profile
        covidStatus = a;
        contact = b;
  }
- public getLocation()
+ public String getLocation()
  {
       return location;
  }
- public setLocation(String z)
+ public String setLocation(String z)
  {
     location=z;
  }
